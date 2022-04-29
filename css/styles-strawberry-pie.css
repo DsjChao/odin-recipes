@@ -1,0 +1,41 @@
+#main-header {
+    color: firebrick;
+    text-align: center;
+    font-weight: bold;
+}
+
+#description {
+    color: blue;
+    font-style: italic;
+    text-align: center;
+}
+
+.info1 {
+    color: pink;
+    text-align: center;
+    background-color: black;
+}
+
+#requirements {
+    color: black;
+    text-align: center;
+    background-color: blue;
+}
+
+.odd {
+    color: #070000;
+    background-color: rgb( 200,75,75);
+    font-family: Verdana, sans-serif;
+}
+.two {
+    color: blue;
+    font-size: 36px;
+}
+.odd.three {
+    font-size: 24px;
+}
+.four {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
