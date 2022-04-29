@@ -39,3 +39,22 @@
     font-size: 24px;
     font-weight: bold;
 }
+
+.one1, .two2 {
+    font-size: 28px;
+    text-align: center;
+    
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.one1 {
+    background-color: #070000;
+    color: white;
+}
+
+.two2 {
+    background-color: rgb(202, 182, 8);
+}
+.flex-parent {
+    text-align: center;
+}
